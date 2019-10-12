@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/binggee/esp/esp-idf/components/**",
+                "/home/binggee/esp/esp-idf/components/soc/**",
+                "/home/binggee/esp/esp-idf/components/esp_rom/include/esp32/rom/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc"
+        }
+    ],
+    "version": 4
+}
